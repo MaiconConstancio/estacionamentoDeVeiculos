@@ -1,0 +1,8 @@
+C:\Users\MK\source\repos\TestandoAleatorio\TestandoAleatorio\bin\Debug\TestandoAleatorio.exe.config
+C:\Users\MK\source\repos\TestandoAleatorio\TestandoAleatorio\bin\Debug\TestandoAleatorio.exe
+C:\Users\MK\source\repos\TestandoAleatorio\TestandoAleatorio\bin\Debug\TestandoAleatorio.pdb
+C:\Users\MK\source\repos\TestandoAleatorio\TestandoAleatorio\obj\Debug\CadastroDeUsuariosAula08.csproj.AssemblyReference.cache
+C:\Users\MK\source\repos\TestandoAleatorio\TestandoAleatorio\obj\Debug\CadastroDeUsuariosAula08.csproj.SuggestedBindingRedirects.cache
+C:\Users\MK\source\repos\TestandoAleatorio\TestandoAleatorio\obj\Debug\CadastroDeUsuariosAula08.csproj.CoreCompileInputs.cache
+C:\Users\MK\source\repos\TestandoAleatorio\TestandoAleatorio\obj\Debug\TestandoAleatorio.exe
+C:\Users\MK\source\repos\TestandoAleatorio\TestandoAleatorio\obj\Debug\TestandoAleatorio.pdb
